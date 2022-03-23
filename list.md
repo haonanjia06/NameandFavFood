@@ -283,8 +283,6 @@ Stella | Sushi
 Yuxiang Liu | Diced chilli chicken
 
 Tatiana | Skirt Steak
-<<<<<<< Updated upstream
-=======
 
 Haonan | Burger
->>>>>>> Stashed changes
+
